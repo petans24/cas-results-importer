@@ -1,2 +1,2 @@
 # cas-results-importer
-Imports into MySQL database results export (excel format) by cas.cz 
+Imports into MySQL database results exported (excel format) by cas.cz 
